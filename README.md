@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Ahmed Ehab Elsaba and I'm a Data Engineer trainee at Information Technology Institute (ITI), from Egypt🇪🇬.</p>
+<p align="left">My name is Ahmed Ehab Elsaba and I'm a Data Engineer trainee at Information Technology Institute (ITI), from Egypt 🇪🇬.</p>
 
 ###
 
