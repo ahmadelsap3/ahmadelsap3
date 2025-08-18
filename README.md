@@ -26,114 +26,79 @@
 
 <div align="left">
   <a href="https://github.com/ahmadelsap3" target="_blank">
-    <div style="background: linear-gradient(90deg, #355C7D, #6C5B7B, #C06C84); padding: 25px; border-radius: 10px; display: flex; flex-wrap: wrap; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-      <style>
-        .tech-icon {
-          background: white; 
-          border-radius: 50%; 
-          width: 50px; 
-          height: 50px; 
-          display: inline-flex; 
-          align-items: center; 
-          justify-content: center; 
-          margin: 8px; 
-          box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
-          position: relative; 
-          transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        .tech-icon:hover {
-          transform: translateY(-5px);
-          box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-        }
-        .tech-icon:hover .tech-tooltip {
-          opacity: 1;
-        }
-        .tech-tooltip {
-          position: absolute; 
-          background: rgba(0,0,0,0.7); 
-          color: white; 
-          padding: 4px 8px; 
-          border-radius: 4px; 
-          font-size: 12px; 
-          bottom: -30px; 
-          opacity: 0; 
-          transition: opacity 0.3s; 
-          pointer-events: none; 
-          white-space: nowrap;
-        }
-      </style>
-      <span class="tech-icon" title="Python">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-        <span class="tech-tooltip">Python</span>
-      </span>
-      <span class="tech-icon" title="NumPy">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-        <span class="tech-tooltip">NumPy</span>
-      </span>
-      <span class="tech-icon" title="Pandas">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-        <span class="tech-tooltip">Pandas</span>
-      </span>
-      <span class="tech-icon" title="Microsoft SQL Server">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
-        <span class="tech-tooltip">SQL Server</span>
-      </span>
-      <span class="tech-icon" title="MySQL">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-        <span class="tech-tooltip">MySQL</span>
-      </span>
-      <span class="tech-icon" title="PostgreSQL">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-        <span class="tech-tooltip">PostgreSQL</span>
-      </span>
-      <span class="tech-icon" title="SQLite">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
-        <span class="tech-tooltip">SQLite</span>
-      </span>
-      <span class="tech-icon" title="AWS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo" />
-        <span class="tech-tooltip">AWS</span>
-      </span>
-      <span class="tech-icon" title="Docker">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-        <span class="tech-tooltip">Docker</span>
-      </span>
-      <span class="tech-icon" title="Linux">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-        <span class="tech-tooltip">Linux</span>
-      </span>
-      <span class="tech-icon" title="Git">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-        <span class="tech-tooltip">Git</span>
-      </span>
-      <span class="tech-icon" title="GitHub">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-        <span class="tech-tooltip">GitHub</span>
-      </span>
-      <span class="tech-icon" title="Apache Airflow">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airflow.svg" height="30" alt="apache airflow logo" />
-        <span class="tech-tooltip">Apache Airflow</span>
-      </span>
-      <span class="tech-icon" title="dbt">
-        <img src="https://cdn.simpleicons.org/dbt/FF694B" height="30" alt="dbt logo" />
-        <span class="tech-tooltip">dbt</span>
-      </span>
-      <span class="tech-icon" title="Snowflake">
-        <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="30" alt="snowflake logo" />
-        <span class="tech-tooltip">Snowflake</span>
-      </span>
-      <span class="tech-icon" title="VS Code">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-        <span class="tech-tooltip">VS Code</span>
-      </span>
-      <span class="tech-icon" title="Power BI">
-        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="30" alt="powerbi logo" />
-        <span class="tech-tooltip">Power BI</span>
-      </span>
-      <span class="tech-icon" title="GitHub Copilot">
-        <img src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" height="30" alt="github copilot logo" />
-        <span class="tech-tooltip">GitHub Copilot</span>
-      </span>
+    <div align="center" style="background: linear-gradient(90deg, #355C7D, #6C5B7B, #C06C84); padding: 25px; border-radius: 10px; display: inline-block;">
+      <!-- Python -->
+      <a href="https://www.python.org/" target="_blank" title="Python">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- NumPy -->
+      <a href="https://numpy.org/" target="_blank" title="NumPy">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- Pandas -->
+      <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- Microsoft SQL Server -->
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="Microsoft SQL Server">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- MySQL -->
+      <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- PostgreSQL -->
+      <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- SQLite -->
+      <a href="https://www.sqlite.org/" target="_blank" title="SQLite">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- AWS -->
+      <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- Docker -->
+      <a href="https://www.docker.com/" target="_blank" title="Docker">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- Linux -->
+      <a href="https://www.linux.org/" target="_blank" title="Linux">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- Git -->
+      <a href="https://git-scm.com/" target="_blank" title="Git">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- GitHub -->
+      <a href="https://github.com/" target="_blank" title="GitHub">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- Apache Airflow -->
+      <a href="https://airflow.apache.org/" target="_blank" title="Apache Airflow">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airflow.svg" height="40" alt="apache airflow" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- dbt -->
+      <a href="https://www.getdbt.com/" target="_blank" title="dbt">
+        <img src="https://cdn.simpleicons.org/dbt/FF694B" height="40" alt="dbt" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- Snowflake -->
+      <a href="https://www.snowflake.com/" target="_blank" title="Snowflake">
+        <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="40" alt="snowflake" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- VS Code -->
+      <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- Power BI -->
+      <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40" alt="power bi" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
+      <!-- GitHub Copilot -->
+      <a href="https://github.com/features/copilot" target="_blank" title="GitHub Copilot">
+        <img src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" height="40" alt="github copilot" style="background: white; border-radius: 50%; padding: 8px; margin: 8px; width: 40px; height: 40px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+      </a>
     </div>
   </a>
 </div>
