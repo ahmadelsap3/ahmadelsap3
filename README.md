@@ -25,8 +25,10 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/ahmadelsap3" target="_blank">
-    <div align="center" style="background-color: #6C5B7B; padding: 25px; border-radius: 10px; display: inline-block;">
+  <table>
+    <tr>
+      <td align="center" bgcolor="#6C5B7B" background="https://raw.githubusercontent.com/ahmadelsap3/ahmadelsap3/main/images/gradient-bg.png" style="border-radius: 10px; padding: 10px;">
+        <div align="center">
       <!-- Python -->
       <a href="https://www.python.org/" target="_blank" title="Python" style="margin: 5px; display: inline-block;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
@@ -100,7 +102,9 @@
         <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="github copilot" />
       </a>
     </div>
-  </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
