@@ -25,29 +25,117 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <a href="https://github.com/ahmadelsap3" target="_blank">
+    <div style="background: linear-gradient(90deg, #355C7D, #6C5B7B, #C06C84); padding: 25px; border-radius: 10px; display: flex; flex-wrap: wrap; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+      <style>
+        .tech-icon {
+          background: white; 
+          border-radius: 50%; 
+          width: 50px; 
+          height: 50px; 
+          display: inline-flex; 
+          align-items: center; 
+          justify-content: center; 
+          margin: 8px; 
+          box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+          position: relative; 
+          transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .tech-icon:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+        .tech-icon:hover .tech-tooltip {
+          opacity: 1;
+        }
+        .tech-tooltip {
+          position: absolute; 
+          background: rgba(0,0,0,0.7); 
+          color: white; 
+          padding: 4px 8px; 
+          border-radius: 4px; 
+          font-size: 12px; 
+          bottom: -30px; 
+          opacity: 0; 
+          transition: opacity 0.3s; 
+          pointer-events: none; 
+          white-space: nowrap;
+        }
+      </style>
+      <span class="tech-icon" title="Python">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+        <span class="tech-tooltip">Python</span>
+      </span>
+      <span class="tech-icon" title="NumPy">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+        <span class="tech-tooltip">NumPy</span>
+      </span>
+      <span class="tech-icon" title="Pandas">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+        <span class="tech-tooltip">Pandas</span>
+      </span>
+      <span class="tech-icon" title="Microsoft SQL Server">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
+        <span class="tech-tooltip">SQL Server</span>
+      </span>
+      <span class="tech-icon" title="MySQL">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+        <span class="tech-tooltip">MySQL</span>
+      </span>
+      <span class="tech-icon" title="PostgreSQL">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+        <span class="tech-tooltip">PostgreSQL</span>
+      </span>
+      <span class="tech-icon" title="SQLite">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
+        <span class="tech-tooltip">SQLite</span>
+      </span>
+      <span class="tech-icon" title="AWS">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo" />
+        <span class="tech-tooltip">AWS</span>
+      </span>
+      <span class="tech-icon" title="Docker">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+        <span class="tech-tooltip">Docker</span>
+      </span>
+      <span class="tech-icon" title="Linux">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+        <span class="tech-tooltip">Linux</span>
+      </span>
+      <span class="tech-icon" title="Git">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+        <span class="tech-tooltip">Git</span>
+      </span>
+      <span class="tech-icon" title="GitHub">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+        <span class="tech-tooltip">GitHub</span>
+      </span>
+      <span class="tech-icon" title="Apache Airflow">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airflow.svg" height="30" alt="apache airflow logo" />
+        <span class="tech-tooltip">Apache Airflow</span>
+      </span>
+      <span class="tech-icon" title="dbt">
+        <img src="https://cdn.simpleicons.org/dbt/FF694B" height="30" alt="dbt logo" />
+        <span class="tech-tooltip">dbt</span>
+      </span>
+      <span class="tech-icon" title="Snowflake">
+        <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="30" alt="snowflake logo" />
+        <span class="tech-tooltip">Snowflake</span>
+      </span>
+      <span class="tech-icon" title="VS Code">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+        <span class="tech-tooltip">VS Code</span>
+      </span>
+      <span class="tech-icon" title="Power BI">
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="30" alt="powerbi logo" />
+        <span class="tech-tooltip">Power BI</span>
+      </span>
+      <span class="tech-icon" title="GitHub Copilot">
+        <img src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" height="30" alt="github copilot logo" />
+        <span class="tech-tooltip">GitHub Copilot</span>
+      </span>
+    </div>
+  </a>
 </div>
 
 ###
