@@ -1,13 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ahmadelsap3&show_icons=true&theme=radical"  />
-</div>
-
-###
-
 <p align="left">My name is Ahmed Ehab Elsaba and I'm a Data Engineer 👨‍💻 trainee at Information Technology Institute (ITI), from Egypt 🇪🇬.</p>
 
 ###
@@ -54,6 +46,14 @@
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22un7tefem6m5aoxognzczesq&count=5&width=600" alt="Spotify recently played"  />
+</div>
+
+###
+
+###
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ahmadelsap3&show_icons=true&theme=radical"  />
 </div>
 
 ###
